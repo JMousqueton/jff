@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jean-François Flavien
+N;CHARSET=UTF-8:Flavien;Jean-François;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:jean-francois.flavien@computacenter.com
+TEL;TYPE=CELL:+33633556428
+ROLE;CHARSET=UTF-8:Chief Technologist
+TITLE;CHARSET=UTF-8:Chief Technologist
+ORG;CHARSET=UTF-8:Computacenter
+URL;type=WORK;CHARSET=UTF-8:https://www.computacenter.com
+X-SOCIALPROFILE;TYPE=twitter:https://www.linkedin.com/in/jean-fran%C3%A7ois-flavien-b4b38253
+REV:2022-07-16T23:15:00.801Z
+END:VCARD
